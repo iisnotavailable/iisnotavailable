@@ -1,17 +1,21 @@
 # Hi 👋
 
-### 1 | 💻 This is the place where i publish my experiments and projects
-
-- 🌱 Learning to build an operating system
-- 🔭 Working on modern compiler construction and engineering
+### 1 | This is the place where i publish my experiments and projects 💻
+- 💾 Learning to build an operating system
 - 💬 Learning the C programming language and X86_64 
+- 🚀 Stay tuned, new project coming soon...
 
-### 2 | 🤘 About me
+### 2 | About me 💁‍♂️
 - Linux user :penguin:
 - Low level programming addicted :zap:
 - Vs-code user :pencil2:
 
-### 3 | 🧰 Toolbox 
+### 3 | Hobby ✈️
+- Passionate about exploring new places, cultures, and landscapes 🌍
+- Always eager to learn new things and expand my horizons 🧠
+- Enjoying weightlifting and staying active at the gym 🏋️‍♂️
+
+### 4 | Toolbox 🧰 
 
 #### Languages
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
